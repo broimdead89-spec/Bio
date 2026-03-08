@@ -1,0 +1,8 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+mangum>=0.17.0
+ytmusicapi>=1.7.0
+anthropic>=0.25.0
+openai>=1.30.0
+jinja2>=3.1.0
+python-multipart>=0.0.9
